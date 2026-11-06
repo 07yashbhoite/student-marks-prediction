@@ -74,7 +74,7 @@ The best model was saved as `best_model.pkl`.
 
 ## Dataset
 
-The dataset (`student_habits_performance.csv`) contains information on student lifestyle habits and exam scores. Source: [https://www.youtube.com/redirect?event=video_description&redir_token=QUlxb01IYXdFUFVOOUlRUzlsOWd5NmVUTV9hdHxBQnJ0NjlrZEx6bGJ4WGpTRmNlZUpGcFRJOXBSSVV6ME53SG8xYzBKQjZMYl9iOHU3dnNMSnVKT3UxWWtrdWtWR205M1pfdHpKakZteFhmLWRhTFViUy1NRnNieDFiOWJ6VDJt&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fjayaantanaath%2Fstudent-habits-vs-academic-performance&v=XNGgElLhjD4].
+The dataset (`student_habits_performance.csv`) contains information on student lifestyle habits and exam scores. Source: [https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance].
 
 ## Future Improvements
 
